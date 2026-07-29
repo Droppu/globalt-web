@@ -1,0 +1,12 @@
+{
+  "name": "globalt-web",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "deploy": "wrangler deploy",
+    "preview": "wrangler dev"
+  },
+  "devDependencies": {
+    "wrangler": "4.115.0"
+  }
+}
